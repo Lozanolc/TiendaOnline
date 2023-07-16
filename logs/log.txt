@@ -1,0 +1,6 @@
+[E][15-07-2023 15:01:27]: ha habiado un error
+[I][15-07-2023 15:01:27]: todo bien
+[W][15-07-2023 15:01:27]: hay un warnign
+[E][15-07-2023 15:02:20]: ha habiado un error
+[I][15-07-2023 15:02:20]: todo bien
+[W][15-07-2023 15:02:20]: hay un warnign
